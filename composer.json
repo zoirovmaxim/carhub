@@ -1,0 +1,15 @@
+{
+    "name": "lenovo/wb",
+    "authors": [
+        {
+            "name": "Zoirov Maxim "
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"./app"
+        }
+    }
+    
+}
